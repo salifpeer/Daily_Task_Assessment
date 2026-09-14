@@ -16,17 +16,3 @@ Learned how to create functions using def. Practiced using parameters, arguments
 7. List Comprehensions
 Learned how to create lists using list comprehension and how to apply conditions while creating a list.<a href="https://github.com/salifpeer/Daily_Task_Assessment/blob/main/Day1-11-sep-2026/listcomprehension.py">Program list comprehension</a><br>
 
-8. Exception Handling
-Learned how to handle errors using try, except, else, and finally.<a href="https://github.com/salifpeer/Daily_Task_Assessment/commit/6af5cc8e9469ab5dfadf51c53efb57a7bfd17cf3">Program for Exception handling</a><br>
-9. Raising Exceptions
-Learned how to use raise to create an exception when an invalid condition occurs.<br>
-10. When to Catch Exceptions
-Learned that exceptions should be caught when the program can properly handle the error or provide a useful response to the user.<br>
-11.Raising Exceptions
-Learned how to raise an exception when the current function cannot properly handle it and the error needs to be handled by a higher-level function.also add manual excetions<br>
-12. Letting Exceptions Propagate
-Learned that unexpected programming errors should not always be caught. Allowing them to propagate helps developers see the traceback and find the actual problem.<br>
-13. Logging
-Learned about the Python logging module and different logging levels such as DEBUG, INFO, WARNING, ERROR, and CRITICAL.<br>
-14. Traceback
-Learned how traceback shows the sequence of function calls and the line where an exception occurred. It is useful for finding and debugging errors
