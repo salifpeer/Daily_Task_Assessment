@@ -1,0 +1,16 @@
+ERROR:__main__:you have entered an invalid age
+Traceback (most recent call last):
+  File "c:\Users\SALIF SAJAD\Desktop\Pictures\react\router\node_modules\flatted\python\Daily_Task_Assessment\Day1\log.py", line 15, in <module>
+    vote(a)
+    ~~~~^^^
+  File "c:\Users\SALIF SAJAD\Desktop\Pictures\react\router\node_modules\flatted\python\Daily_Task_Assessment\Day1\log.py", line 6, in vote
+    raise Exception("you have entered an invalid age")
+Exception: you have entered an invalid age
+ERROR:__main__:you have entered an invalid age
+Traceback (most recent call last):
+  File "c:\Users\SALIF SAJAD\Desktop\Pictures\react\router\node_modules\flatted\python\Daily_Task_Assessment\Day1\log.py", line 15, in <module>
+    vote(a)
+    ~~~~^^^
+  File "c:\Users\SALIF SAJAD\Desktop\Pictures\react\router\node_modules\flatted\python\Daily_Task_Assessment\Day1\log.py", line 6, in vote
+    raise Exception("you have entered an invalid age")
+Exception: you have entered an invalid age
