@@ -1,0 +1,37 @@
+{
+    "p001": {
+        "name": "Salif",
+        "height": 1.75,
+        "weight": 70,
+        "bmi": 22.86,
+        "verdict": "Normal"
+    },
+    "p002": {
+        "name": "Eesham",
+        "height": 1.68,
+        "weight": 80,
+        "bmi": 28.34,
+        "verdict": "Overweight"
+    },
+    "p003": {
+        "name": "Ayaan",
+        "height": 1.82,
+        "weight": 95,
+        "bmi": 28.68,
+        "verdict": "Overweight"
+    },
+    "p004": {
+        "name": "Rahul",
+        "height": 1.60,
+        "weight": 45,
+        "bmi": 17.58,
+        "verdict": "Underweight"
+    },
+    "p005": {
+        "name": "Adil",
+        "height": 1.78,
+        "weight": 105,
+        "bmi": 33.14,
+        "verdict": "Obese"
+    }
+}
