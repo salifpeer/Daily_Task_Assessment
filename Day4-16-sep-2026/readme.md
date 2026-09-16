@@ -37,7 +37,7 @@ Learned how the GET method is used to retrieve data from an API. Also learned ho
 <p>
 Learned how Pydantic is used in FastAPI for data types, data validation, and checking whether the incoming data follows the required structure.
 </p>
-<a href="">Program on pydantic module</a>
+<a href="https://github.com/salifpeer/Daily_Task_Assessment/blob/main/Day4-16-sep-2026/pydan.py">Program on pydantic module</a>
 <br>
 
 <h3>Overall Learning</h3>
