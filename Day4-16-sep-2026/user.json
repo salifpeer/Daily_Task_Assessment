@@ -3,6 +3,7 @@
         "name": "Salif",
         "height": 1.75,
         "weight": 70,
+        "gender":"male",
         "bmi": 22.86,
         "verdict": "Normal"
     },
@@ -10,13 +11,16 @@
         "name": "Eesham",
         "height": 1.68,
         "weight": 80,
+         "gender":"male",
         "bmi": 28.34,
+
         "verdict": "Overweight"
     },
     "p003": {
         "name": "Ayaan",
         "height": 1.82,
         "weight": 95,
+         "gender":"male",
         "bmi": 28.68,
         "verdict": "Overweight"
     },
@@ -24,6 +28,7 @@
         "name": "Rahul",
         "height": 1.60,
         "weight": 45,
+         "gender":"male",
         "bmi": 17.58,
         "verdict": "Underweight"
     },
@@ -31,6 +36,15 @@
         "name": "Adil",
         "height": 1.78,
         "weight": 105,
+         "gender":"male",
+        "bmi": 33.14,
+        "verdict": "Obese"
+    },
+    "p006": {
+        "name": "Sadaf",
+        "height": 1.78,
+        "weight": 105,
+         "gender":"female",
         "bmi": 33.14,
         "verdict": "Obese"
     }
