@@ -88,7 +88,7 @@ Project Euler → Problem 11
 <h3>Project Euler Program</h3>
 
 <p>
-<a href="https://github.com/salippeer/Daily_Task_Assessment">
+<a href="https://github.com/salifpeer/Daily_Task_Assessment/blob/main/Project_Euler_problems/q11.py">
 View the Project Euler Program
 </a>
 </p>
