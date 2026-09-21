@@ -32,7 +32,7 @@ Worked on the frontend for adding and displaying patient details such as patient
 <h3>Streamlit Program</h3>
 
 <p>
-<a href="YOUR_STREAMLIT_PROGRAM_LINK">
+<a href="https://github.com/salifpeer/Daily_Task_Assessment/blob/main/Day7-21-sep-2026/main.py">
 View the Streamlit Program
 </a>
 </p>
@@ -40,7 +40,7 @@ View the Streamlit Program
 <h3>Patient Management System Program</h3>
 
 <p>
-<a href="YOUR_PATIENT_MANAGEMENT_PROGRAM_LINK">
+<a href="https://github.com/salifpeer/Daily_Task_Assessment/blob/main/Day7-21-sep-2026/basic.py">
 View the Patient Management System Program
 </a>
 </p>
