@@ -1,0 +1,15 @@
+import streamlit as st
+st.title("Hello World")
+st.write("Welcome to Streamlit!")
+st.selectbox("enter subject",["english","math"])
+st.button("click here")
+st.number_input("Enter a  number")
+st.radio("Select Gender ",["male","Female"])
+st.slider("Level", 0.0, 5.0,2.5)
+a=st.text_input("Enter name")
+b=st.date_input("Enter you dob")
+with st.expander("expand text"):
+    st.write("there is hidden text available")
+st.checkbox("C++")
+st.checkbox("Python")
+st.checkbox("Java")
