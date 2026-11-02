@@ -1,6 +1,7 @@
 #Program for multithreading using multithreading module
 import threading
 import time
+start=time.time()
 def Calc_square(l):
     for i in l:
         time.sleep(0.4)
@@ -18,4 +19,6 @@ if __name__=="__main__":
     t1.join()
     t2.join()
     print("thread completed")
+    end=time.time()
+    print(f"Total time taken by the program is {end-start}")
 

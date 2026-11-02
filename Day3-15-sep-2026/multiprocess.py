@@ -1,6 +1,7 @@
 #Program for multiprocessing
 import multiprocessing
 import time
+start=time.time()
 def Calc_square(l):
     for i in range(0,len(l)):
         time.sleep(0.4)
@@ -34,3 +35,5 @@ if __name__=="__main__":
     p3.start()
     p3.join()
     print(f"List after the execution of p3 {l}")
+    total_time=time.time()-start
+    print(f"Total time taken by the program is {total_time}")
